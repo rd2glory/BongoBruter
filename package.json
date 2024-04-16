@@ -1,0 +1,15 @@
+{
+  "name": "bruter",
+  "version": "1.0.0",
+  "description": "1bongo1 bruter fuck you nova and kyanite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios-https-proxy-fix": "^0.17.1",
+    "discord-webhook-node": "^1.1.8"
+  }
+}
